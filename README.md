@@ -1,3 +1,3 @@
 # React + Vite
 
-This is the on process project of mine to get a better understanding of React.
+This is an on-going project of mine to get a better understanding of React.
